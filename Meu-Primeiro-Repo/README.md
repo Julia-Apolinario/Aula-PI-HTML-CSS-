@@ -1,3 +1,3 @@
 # Meu-Primeiro-Repo
-Meu repositório da faculdade
+Meu primeiro repositório da faculdade
 Estou alterando no remoto
